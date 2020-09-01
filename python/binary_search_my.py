@@ -8,4 +8,4 @@ item = randint(0, 100)
 def binary_search(array: list, number: int):
 
     top_border = len(array)
-    bottom_border = 0
+    bottom_border = 1
